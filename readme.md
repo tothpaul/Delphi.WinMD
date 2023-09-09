@@ -8,4 +8,4 @@ But the main purpose of this project is to read [Windows.Win32.winmd](https://ww
 
 At this time, there's no Delphi code generation, only a Table browser
 
-![screenshot](Delphi.WinMD.PNG)
+![screenshot](Delphi.WinMD.png)
